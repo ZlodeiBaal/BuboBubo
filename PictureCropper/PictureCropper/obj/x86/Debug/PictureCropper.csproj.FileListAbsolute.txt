@@ -1,0 +1,9 @@
+E:\Наработки\MY PROJECT\Bubo bubo\Bin\PictureCropper.exe
+E:\Наработки\MY PROJECT\Bubo bubo\Bin\PictureCropper.pdb
+E:\Наработки\MY PROJECT\Bubo bubo\PictureCropper\PictureCropper\obj\x86\Debug\PictureCropper.Form1.resources
+E:\Наработки\MY PROJECT\Bubo bubo\PictureCropper\PictureCropper\obj\x86\Debug\PictureCropper.Properties.Resources.resources
+E:\Наработки\MY PROJECT\Bubo bubo\PictureCropper\PictureCropper\obj\x86\Debug\PictureCropper.csproj.GenerateResource.Cache
+E:\Наработки\MY PROJECT\Bubo bubo\PictureCropper\PictureCropper\obj\x86\Debug\PictureCropper.exe
+E:\Наработки\MY PROJECT\Bubo bubo\PictureCropper\PictureCropper\obj\x86\Debug\PictureCropper.pdb
+E:\Наработки\MYPROJECT\Bubobubo\PictureCropper\PictureCropper\obj\x86\Debug\PictureCropper.exe
+E:\Наработки\MYPROJECT\Bubobubo\PictureCropper\PictureCropper\obj\x86\Debug\PictureCropper.pdb

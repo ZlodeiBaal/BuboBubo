@@ -1,0 +1,14 @@
+E:\Наработки\MY PROJECT\Bubo bubo\OwlDetector\OwlDetector\bin\Debug\OwlDetector.exe
+E:\Наработки\MY PROJECT\Bubo bubo\OwlDetector\OwlDetector\bin\Debug\OwlDetector.pdb
+E:\Наработки\MY PROJECT\Bubo bubo\OwlDetector\OwlDetector\bin\Debug\Emgu.CV.dll
+E:\Наработки\MY PROJECT\Bubo bubo\OwlDetector\OwlDetector\bin\Debug\Emgu.CV.UI.dll
+E:\Наработки\MY PROJECT\Bubo bubo\OwlDetector\OwlDetector\bin\Debug\Emgu.Util.dll
+E:\Наработки\MY PROJECT\Bubo bubo\OwlDetector\OwlDetector\obj\x86\Debug\OwlDetector.Form1.resources
+E:\Наработки\MY PROJECT\Bubo bubo\OwlDetector\OwlDetector\obj\x86\Debug\OwlDetector.Properties.Resources.resources
+E:\Наработки\MY PROJECT\Bubo bubo\OwlDetector\OwlDetector\obj\x86\Debug\OwlDetector.csproj.GenerateResource.Cache
+E:\Наработки\MY PROJECT\Bubo bubo\OwlDetector\OwlDetector\obj\x86\Debug\OwlDetector.exe
+E:\Наработки\MY PROJECT\Bubo bubo\OwlDetector\OwlDetector\obj\x86\Debug\OwlDetector.pdb
+E:\Наработки\MY PROJECT\Bubo bubo\Bin\OwlDetector.exe
+E:\Наработки\MY PROJECT\Bubo bubo\Bin\OwlDetector.pdb
+E:\Наработки\MYPROJECT\Bubobubo\OwlDetector\OwlDetector\obj\x86\Debug\OwlDetector.exe
+E:\Наработки\MYPROJECT\Bubobubo\OwlDetector\OwlDetector\obj\x86\Debug\OwlDetector.pdb
